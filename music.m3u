@@ -5,12 +5,10 @@ https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 https://lightning-now90s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now90s-rakuten/CDN/playlist.m3u8
 #EXTINF:-1 channel-id="USBB2300004KV" tvg-id="USBB2300004KV" tvg-chno="4353" tvg-name="XITE Rock x Metal" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2300004KV_20240716T002654SQUARE.png" group-title="Music",XITE Rock x Metal
 https://jmp2.uk/stvp-USBB2300004KV
-#EXTINF:-1 tvg-logo="" group-title="Hindi Music",Hindi Hits HD
+#EXTINF:-1 tvg-logo="" group-title="Music",Hindi Hits HD
 http://146.59.253.52:8080/hindihitshd/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",YRF Music HD
+#EXTINF:-1 tvg-logo="" group-title="Music",YRF Music HD
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/B4U%20Movies.png"group-title="Hindi Movies" group-title="",B4U Movies
-https://cdnb4u.wiseplayout.com/B4U_Movies/HD1080/HD1080.m3u8
 #EXTINF:-1 channel-id="USBD300011KQ" tvg-id="USBD300011KQ" tvg-chno="4388" tvg-name="Vevo '70s" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD300011KQ_20250602T231526SQUARE.png" group-title="Music",Vevo '70s
 https://jmp2.uk/stvp-USBD300011KQ
 #EXTINF:-1 channel-id="USBD300012YC" tvg-id="USBD300012YC" tvg-chno="4391" tvg-name="Vevo '80s" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD300012YC_20241112T001815SQUARE.png" group-title="Music",Vevo '80s
